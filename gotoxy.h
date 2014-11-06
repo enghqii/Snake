@@ -1,0 +1,1 @@
+extern void gotoxy(int x, int y);

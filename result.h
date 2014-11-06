@@ -1,0 +1,1 @@
+extern bool PrintResult(int leftTime,int nTail,int speed,bool GoToNextStep);
